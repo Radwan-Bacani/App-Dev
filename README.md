@@ -4,7 +4,7 @@ My first repository
 # 🎬 My Favorite TV Series: Breaking Bad
 > *"I am not in danger, Skyler. I am the danger. A guy opens his door and gets shot, and you think that of me? No. I am the one who knocks!"* — **Walter White**
 ---
-## 📌 Overview & Synopsis
+## 📌 Overview & Synopsis 
 **Breaking Bad** is an acclaimed American neo-Western crime drama television series created and produced by **Vince Gilligan**. 
 The story follows **Walter White** (Bryan Cranston), an underpaid high-school chemistry teacher diagnosed with stage-three lung cancer. In order to secure his family's financial future before he dies, White turns to a secret life of crime, partnering with former student **Jesse Pinkman** (Aaron Paul) to produce and distribute high-purity methamphetamine.
 ---
